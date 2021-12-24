@@ -14,7 +14,7 @@ Para los loaders.
 
  ## Implementación
 1. Abrí tu consola y pegá :
-$ git clone https://github.com/Melinascarfone/scarfone-ecommerce.git
+$ git clone https://github.com/Melinascarfone/ecommerce-sc.git
 2. Situate en la nueva carpeta : 
 $ cd c/HolandesErrante
 3. Instalá las dependencias : 
